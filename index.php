@@ -22,7 +22,17 @@
                 <li><a id="fotos" href="fotos.php">Fotos</a></li>
             </ul>
         </div>
+        <div id="content">
+            <div id="primary">Primário</div>
+            <div id="secondary">Secundário</div>
+            <div id="left-menu">Lateral</div>
+        </div>
     </div>
+    <footer id="container-footer">
+        <div id="footer">
+            &copy; Copyright <?php echo date('Y') ?> -  Notícias Cidade por Fabio Carneiro 
+        </div>
+    </footer>
 </body>
 
 </html>

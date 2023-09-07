@@ -88,3 +88,49 @@ body.fotos #navbar a#fotos {
     border-radius: 0 5px 5px 0;
     cursor: text;
 }
+
+#content {
+    display: grid;
+    grid-template-columns: 180px 300px 270px;
+    grid-template-areas: 'left-menu primary secondary';
+    margin: 60px auto 20px;
+    background: #f5f5f5;
+}
+
+#primary {
+    /* width: 270px; */
+    /* float: left; */
+    grid-area: primary;
+    margin: 0 15px;
+    /* margin: 0 0 20px 195px; */
+    background-color: tomato;
+}
+
+#secondary {
+    /* width: 270px; */
+    /* float: left; */
+    grid-area: secondary;
+    /* margin: 0 0 20px 15px; */
+    background-color: darkorchid;
+}
+
+#left-menu {
+    /* width: 180px; */
+    /* float: left; */
+    grid-area: left-menu;
+    /* margin: 0 0 20px -750px; */
+    background-color: dodgerblue;
+}
+
+#container-footer {
+    /* clear: both; */
+    background: #294c71;
+    padding: 20px;
+}
+
+#footer {
+    width: 750px;
+    margin: 0 auto;
+    color: #fff;
+    border: 1px solid red;
+}
