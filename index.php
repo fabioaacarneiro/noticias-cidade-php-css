@@ -23,9 +23,41 @@
             </ul>
         </div>
         <div id="content">
-            <div id="primary">Primário</div>
-            <div id="secondary">Secundário</div>
-            <div id="left-menu">Lateral</div>
+            <div id="primary"><div class="box">
+                    <h2>Entrevistas</h2>
+                    <div class="box-content">
+                        Conteúdo<br>
+                        Conteúdo<br>
+                        Conteúdo<br>
+                        Conteúdo<br>
+                        Conteúdo<br>
+                        Conteúdo
+                    </div>
+                </div></div>
+            <div id="secondary"><div class="box">
+                    <h2>Entrevistas</h2>
+                    <div class="box-content">
+                        Conteúdo<br>
+                        Conteúdo<br>
+                        Conteúdo<br>
+                        Conteúdo<br>
+                        Conteúdo<br>
+                        Conteúdo
+                    </div>
+                </div></div>
+            <div id="left-menu">
+                <div class="box">
+                    <h2>Entrevistas</h2>
+                    <div class="box-content">
+                        Conteúdo<br>
+                        Conteúdo<br>
+                        Conteúdo<br>
+                        Conteúdo<br>
+                        Conteúdo<br>
+                        Conteúdo
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
     <footer id="container-footer">

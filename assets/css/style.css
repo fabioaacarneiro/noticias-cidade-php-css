@@ -94,7 +94,7 @@ body.fotos #navbar a#fotos {
     grid-template-columns: 195px 270px 285px;
     grid-template-areas: 'left-menu primary secondary';
     margin: 60px auto 20px;
-    background: #f5f5f5;
+    /* background: #f5f5f5; */
 }
 
 #two-columns #content {
@@ -111,19 +111,37 @@ body.fotos #navbar a#fotos {
 
 #primary {
     grid-area: primary;
-    background-color: tomato;
 }
 
 #secondary {
     grid-area: secondary;
     margin-left: 15px;
-    background-color: darkorchid;
 }
 
 #left-menu {
     margin-right: 15px;
     grid-area: left-menu;
-    background-color: dodgerblue;
+}
+
+.box {
+    margin: 10px 0;
+    padding-bottom: .1px;
+    background: #f3f3f3 url(../img/fundo-caixa.png);
+}
+
+.box-content {
+    background: #fff;
+    margin: 5px;
+    padding: 5px;
+}
+
+h2 {
+    border: transparent;
+    border-radius: 5px 5px 0 0;
+    font-size: 1.2em;
+    background: #294c71;
+    color: #fff;
+    padding: 5px;
 }
 
 #container-footer {
