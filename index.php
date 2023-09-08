@@ -14,12 +14,12 @@
             <h1 class="logo">Notícias Cidade</h1>
             <ul id="navbar">
                 <li class="first"><a id="home" href="index.php">Home</a></li>
-                <li><a id="brasil" href="brasil.php">Brasil</a></li>
-                <li><a id="internacional" href="internacional.php">Internacional</a></li>
-                <li><a id="economia" href="economia.php">Economia</a></li>
-                <li><a id="saude" href="saude.php">Saúde</a></li>
-                <li><a id="ciencia" href="ciencia.php">Ciência</a></li>
-                <li><a id="fotos" href="fotos.php">Fotos</a></li>
+                <li><a id="brasil" href="pages/brasil.php">Brasil</a></li>
+                <li><a id="internacional" href="pages/internacional.php">Internacional</a></li>
+                <li><a id="economia" href="pages/economia.php">Economia</a></li>
+                <li><a id="saude" href="pages/saude.php">Saúde</a></li>
+                <li><a id="ciencia" href="pages/ciencia.php">Ciência</a></li>
+                <li><a id="fotos" href="pages/fotos.php">Fotos</a></li>
             </ul>
         </div>
         <div id="content">
@@ -35,6 +35,61 @@
                         <a href="">Leia mais!</a>
                     </div>
                 </div>
+                <div class="box">
+                    <h2>Mundo</h2>
+                    <div class="box-content">
+                    <ul id="news-list">
+                            <li>
+                                <a href="">
+                                    <img src="assets/img/tecnologia.jpg" alt="tecnologia" width="40%">
+                                    <h3>Novas Tecnologias</h3>
+                                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae eligendi consequuntur placeat voluptatum consequatur, illo eum mollitia omnis minima ullam laudantium aliquid voluptatem eaque quam ex facilis excepturi sint voluptates?</p>
+                                </a>
+                            </li>
+                            <hr>
+                            <li>
+                                <a href="">
+                                    <img src="assets/img/cidade.jpg" alt="tecnologia" width="40%">
+                                    <h3>Novas Tecnologias</h3>
+                                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae eligendi consequuntur placeat voluptatum consequatur, illo eum mollitia omnis minima ullam laudantium aliquid voluptatem eaque quam ex facilis excepturi sint voluptates?</p>
+                                </a>
+                            </li>
+                            <hr>
+                            <li>
+                                <a href="">
+                                    <img src="assets/img/taxi.jpg" alt="tecnologia" width="40%">
+                                    <h3>Novas Tecnologias</h3>
+                                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae eligendi consequuntur placeat voluptatum consequatur, illo eum mollitia omnis minima ullam laudantium aliquid voluptatem eaque quam ex facilis excepturi sint voluptates?</p>
+                                </a>
+                            </li>
+                            <hr>
+                            <li>
+                                <a href="">
+                                    <img src="assets/img/doutor.jpg" alt="tecnologia" width="40%">
+                                    <h3>Novas Tecnologias</h3>
+                                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae eligendi consequuntur placeat voluptatum consequatur, illo eum mollitia omnis minima ullam laudantium aliquid voluptatem eaque quam ex facilis excepturi sint voluptates?</p>
+                                </a>
+                            </li>
+                            <hr>
+                            <li>
+                                <a href="">
+                                    <img src="assets/img/cidade.jpg" alt="tecnologia" width="40%">
+                                    <h3>Novas Tecnologias</h3>
+                                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae eligendi consequuntur placeat voluptatum consequatur, illo eum mollitia omnis minima ullam laudantium aliquid voluptatem eaque quam ex facilis excepturi sint voluptates?</p>
+                                </a>
+                            </li>
+                            <hr>
+                            <li>
+                                <a href="">
+                                    <img src="assets/img/tecnologia.jpg" alt="tecnologia" width="40%">
+                                    <h3>Novas Tecnologias</h3>
+                                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae eligendi consequuntur placeat voluptatum consequatur, illo eum mollitia omnis minima ullam laudantium aliquid voluptatem eaque quam ex facilis excepturi sint voluptates?</p>
+                                </a>
+                            </li>
+                            <hr>
+                        </ul>
+                    </div>
+                </div>
             </div>
             <div id="secondary">
                 <div class="box highlights">
@@ -46,6 +101,69 @@
                             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Mollitia exercitationem aliquam velit temporibus veritatis, ducimus voluptates tempore nemo iure, laudantium saepe tenetur facilis ab placeat ipsum illo, repellendus quos nam?
                         </p>
                         <a href="">Leia mais!</a>
+                    </div>
+                </div>
+                <div class="box">
+                    <h2>Notícias Recentes</h2>
+                    <div class="box-content">
+                        <ul id="news-list">
+                            <li>
+                                <a href="">
+                                    <img src="assets/img/tecnologia.jpg" alt="tecnologia" width="40%">
+                                    <h3>Novas Tecnologias</h3>
+                                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae eligendi consequuntur placeat voluptatum consequatur, illo eum mollitia omnis minima ullam laudantium aliquid voluptatem eaque quam ex facilis excepturi sint voluptates?</p>
+                                </a>
+                            </li>
+                            <hr>
+                            <li>
+                                <a href="">
+                                    <img src="assets/img/cidade.jpg" alt="tecnologia" width="40%">
+                                    <h3>Novas Tecnologias</h3>
+                                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae eligendi consequuntur placeat voluptatum consequatur, illo eum mollitia omnis minima ullam laudantium aliquid voluptatem eaque quam ex facilis excepturi sint voluptates?</p>
+                                </a>
+                            </li>
+                            <hr>
+                            <li>
+                                <a href="">
+                                    <img src="assets/img/taxi.jpg" alt="tecnologia" width="40%">
+                                    <h3>Novas Tecnologias</h3>
+                                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae eligendi consequuntur placeat voluptatum consequatur, illo eum mollitia omnis minima ullam laudantium aliquid voluptatem eaque quam ex facilis excepturi sint voluptates?</p>
+                                </a>
+                            </li>
+                            <hr>
+                            <li>
+                                <a href="">
+                                    <img src="assets/img/doutor.jpg" alt="tecnologia" width="40%">
+                                    <h3>Novas Tecnologias</h3>
+                                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae eligendi consequuntur placeat voluptatum consequatur, illo eum mollitia omnis minima ullam laudantium aliquid voluptatem eaque quam ex facilis excepturi sint voluptates?</p>
+                                </a>
+                            </li>
+                            <hr>
+                            <li>
+                                <a href="">
+                                    <img src="assets/img/doutor.jpg" alt="tecnologia" width="40%">
+                                    <h3>Novas Tecnologias</h3>
+                                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae eligendi consequuntur placeat voluptatum consequatur, illo eum mollitia omnis minima ullam laudantium aliquid voluptatem eaque quam ex facilis excepturi sint voluptates?</p>
+                                </a>
+                            </li>
+                            <hr>
+                            <li>
+                                <a href="">
+                                    <img src="assets/img/cidade.jpg" alt="tecnologia" width="40%">
+                                    <h3>Novas Tecnologias</h3>
+                                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae eligendi consequuntur placeat voluptatum consequatur, illo eum mollitia omnis minima ullam laudantium aliquid voluptatem eaque quam ex facilis excepturi sint voluptates?</p>
+                                </a>
+                            </li>
+                            <hr>
+                            <li>
+                                <a href="">
+                                    <img src="assets/img/tecnologia.jpg" alt="tecnologia" width="40%">
+                                    <h3>Novas Tecnologias</h3>
+                                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae eligendi consequuntur placeat voluptatum consequatur, illo eum mollitia omnis minima ullam laudantium aliquid voluptatem eaque quam ex facilis excepturi sint voluptates?</p>
+                                </a>
+                            </li>
+                            <hr>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -79,6 +197,7 @@
                         </form>
                     </div>
                 </div>
+                
             </div>
         </div>
     </div>
