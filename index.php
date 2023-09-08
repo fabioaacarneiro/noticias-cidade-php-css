@@ -23,19 +23,20 @@
             </ul>
         </div>
         <div id="content">
-            <div id="primary"><div class="box">
+            <div id="primary"><div class="box destaque">
                     <h2>Entrevistas</h2>
                     <div class="box-content">
-                        Conteúdo<br>
-                        Conteúdo<br>
-                        Conteúdo<br>
-                        Conteúdo<br>
-                        Conteúdo<br>
-                        Conteúdo
+                        <h3>Nova Legislação</h3>
+                        <img src="assets/img/taxi.jpg" alt="nova legislação" width="95%">
+                        <p>
+                            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quis at excepturi molestiae repellendus delectus, voluptate aspernatur. Excepturi facere, quam optio aliquam expedita quibusdam dolorum commodi atque sunt, quo fugit? Eaque!
+                        </p>
+                        <a href="">Leia mais!</a>
+                        <h3>Nova Legislação 2</h3>
                     </div>
                 </div></div>
             <div id="secondary"><div class="box">
-                    <h2>Entrevistas</h2>
+                    <h2>Destaques</h2>
                     <div class="box-content">
                         Conteúdo<br>
                         Conteúdo<br>

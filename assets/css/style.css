@@ -182,6 +182,37 @@ input.submit:hover {
     border: 3px solid #870529;
 }
 
+img {
+    display: flex;
+    align-self: center;
+    border: 3px solid transparent;
+    border-radius: 6px;
+    overflow: hidden;
+    margin: 5px auto;
+}
+img:hover {
+    border: 3px solid #294c71;
+}
+
+h3 {
+    text-transform: uppercase;
+    display: inline;
+    font-size: .8em;
+    padding: 3px;
+}
+
+.destaque h3 {
+    background: #b10333;
+    padding: 0 5px;
+    color: #fff;
+    border: 2px solid transparent;
+    border-radius: 4px;
+}
+
+.destaque h3:hover {
+    border: 2px solid #870529;
+}
+
 #container-footer {
     background: #294c71;
     padding: 20px;
