@@ -201,7 +201,7 @@ h3 {
     padding: 3px;
 }
 
-.destaque h3 {
+.highlights h3 {
     background: #b10333;
     padding: 0 5px;
     color: #fff;
@@ -209,7 +209,7 @@ h3 {
     border-radius: 4px;
 }
 
-.destaque h3:hover {
+.highlights h3:hover {
     border: 2px solid #870529;
 }
 

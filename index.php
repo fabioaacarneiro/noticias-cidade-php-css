@@ -23,7 +23,8 @@
             </ul>
         </div>
         <div id="content">
-            <div id="primary"><div class="box destaque">
+            <div id="primary">
+                <div class="box highlights">
                     <h2>Entrevistas</h2>
                     <div class="box-content">
                         <h3>Nova Legislação</h3>
@@ -32,20 +33,22 @@
                             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quis at excepturi molestiae repellendus delectus, voluptate aspernatur. Excepturi facere, quam optio aliquam expedita quibusdam dolorum commodi atque sunt, quo fugit? Eaque!
                         </p>
                         <a href="">Leia mais!</a>
-                        <h3>Nova Legislação 2</h3>
                     </div>
-                </div></div>
-            <div id="secondary"><div class="box">
-                    <h2>Destaques</h2>
+                </div>
+            </div>
+            <div id="secondary">
+                <div class="box highlights">
+                    <h2>Últimas Entrevistas</h2>
                     <div class="box-content">
-                        Conteúdo<br>
-                        Conteúdo<br>
-                        Conteúdo<br>
-                        Conteúdo<br>
-                        Conteúdo<br>
-                        Conteúdo
+                        <h3>Entrevista com Felipe Silva</h3>
+                        <img src="assets/img/doutor.jpg" alt="doutor" width="95%">
+                        <p>
+                            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Mollitia exercitationem aliquam velit temporibus veritatis, ducimus voluptates tempore nemo iure, laudantium saepe tenetur facilis ab placeat ipsum illo, repellendus quos nam?
+                        </p>
+                        <a href="">Leia mais!</a>
                     </div>
-                </div></div>
+                </div>
+            </div>
             <div id="left-menu">
                 <div class="box">
                     <h2>Entrevistas</h2>
