@@ -9,15 +9,15 @@ ajustado alguns detalhes no design do projeto original.
 
 ## Home
 
-![home](img-projeto/img1.png)
+![home](img-projeto/img1.png "página home")
 
 ## Brasil
 
-![Brasil](img-projeto/img2.png)
+![Brasil](img-projeto/img2.png "página Brasil")
 
 ## Fotos
 
-![fotos](img-projeto/img3.png)
+![fotos](img-projeto/img3.png "página fotos")
 
 
 ## Fabio Carneiro
